@@ -1,4 +1,0 @@
----
-layout: categoryes
-title: go
----
