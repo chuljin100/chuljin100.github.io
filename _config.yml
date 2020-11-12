@@ -237,7 +237,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-category_list: [ golang ]
 # https://github.com/jekyll/jekyll-archives
  jekyll-archives:
    enabled:
