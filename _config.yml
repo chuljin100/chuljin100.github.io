@@ -96,7 +96,7 @@ author:
   name             : "Chul jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Somewhere"
+  location         : ""
   email            :
   links:
     - label: "Email"
